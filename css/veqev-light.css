@@ -1,0 +1,20 @@
+:root.light {
+	--bgColor: #EEEEEE; /* light grey */
+	--fgColor: #41474E; /* dark grey */
+	--metaColor: #D26878; /* red */
+
+	--red: #D26878;
+	--dimRed: #623039;
+	--orange: #e08f67;
+	--dimOrange: #926048;
+	--yellow: #FFFAE1;
+	--dimYellow: #D5C5A1;
+	--green: #56AFA0;
+	--dimGreen: #22453F;
+	--blue: #5690AF;
+	--dimBlue: #223844;
+	--purple: #9271D6;
+	--dimPurple: #47356C;
+	--grey: #CBCDCD;
+	--dimGrey: #646868;
+}

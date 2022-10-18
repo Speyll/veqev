@@ -1,2 +1,0 @@
-# veqev
-veqev theme configurations 
