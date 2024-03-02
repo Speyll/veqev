@@ -1,7 +1,11 @@
 :root.dark {
-	--bgColor: #222529; /* dark grey */
-	--fgColor: #D6D6D6; /* light grey */
-	--metaColor: #78B6AD; /* green */
+  --bg: #222529;
+  --bg-light: #464949;
+  --text: #D6D6D6;
+  --text-light: #DBD5BC;
+  --accent: #78B6AD;
+  --accent-light: #87C9E5;
+  --link: #E2AEA2;
 
 	--red: #CD909B;
 	--dimRed: #684249;

@@ -1,7 +1,11 @@
 :root.light {
-	--bgColor: #EEEEEE; /* light grey */
-	--fgColor: #41474E; /* dark grey */
-	--metaColor: #D26878; /* red */
+  --bg: #EEEEEE;
+  --bg-light: #CBCDCD;
+  --text: #41474E;
+  --text-light: #646868;
+  --accent: #D26878;
+  --accent-light: #e08f67;
+  --link: #5690AF;
 
 	--red: #D26878;
 	--dimRed: #623039;
